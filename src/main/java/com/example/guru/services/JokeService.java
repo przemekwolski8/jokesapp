@@ -1,6 +1,6 @@
 package com.example.guru.services;
 
-public interface JokesService {
+public interface JokeService {
 
     String getJoke();
 }
